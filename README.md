@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ignacio Castellanos
 
-<!--
-**CastellanosDev/CastellanosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-17-red)
+![Spring](https://img.shields.io/badge/Spring-Boot-green)
+![Kafka](https://img.shields.io/badge/Kafka-Event--Driven-black)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![FinTech](https://img.shields.io/badge/Industry-FinTech-purple)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Backend Engineer specialized in Java & Spring Boot  
+🏦 FinTech • Microservices • Clean Architecture  
+🌍 Remote Europe / US  
+
+---
+
+## 🧠 About me
+Backend-focused developer building scalable and secure systems.
+
+---
+
+## ⚙️ Tech Stack
+Java • Spring Boot • Kafka • SQL • Docker • CI/CD • Angular
+
+---
+
+## 📫 Contact
+- LinkedIn → https://www.linkedin.com/in/ignacio-castellanos  
+- Email → ignacio.castemore@gmail.com  
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=CastellanosDev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastellanosDev&layout=compact&theme=tokyonight)
