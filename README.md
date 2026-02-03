@@ -1,36 +1,62 @@
-# 👋 Hi, I'm Ignacio Castellanos
+# Hi 👋 I'm Ignacio Castellanos
 
-![Java](https://img.shields.io/badge/Java-21-red)
-![Spring](https://img.shields.io/badge/Spring-Boot-green)
-![Kafka](https://img.shields.io/badge/Kafka-Event--Driven-black)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![FinTech](https://img.shields.io/badge/Industry-FinTech-purple)
+### Senior Backend Engineer | Java • Spring Boot • Microservices • FinTech
 
----
+Backend-focused engineer building **secure, scalable and production-grade systems** for regulated and high-availability environments.
 
-💻 Backend Engineer specialized in Java & Spring Boot  
-🏦 FinTech • Microservices • Clean Architecture  
-🌍 Remote Europe / US  
+I specialize in:
+- Distributed systems
+- Microservices architecture
+- Clean & Hexagonal Architecture
+- High-performance APIs
+- Financial / enterprise platforms
 
----
-
-## 🧠 About me
-Backend-focused developer building scalable and secure systems.
+Currently targeting **FinTech, Scale-Ups and Big Tech roles (EU / US remote)**
 
 ---
 
 ## ⚙️ Tech Stack
-Java • Spring Boot • Kafka • SQL • Docker • CI/CD • Angular
+
+### 🧠 Backend
+[![Backend](https://skillicons.dev/icons?i=java,spring,kafka)](https://skillicons.dev)
+
+### 🗄 Databases
+[![DB](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+
+### 🚀 DevOps & Cloud
+[![DevOps](https://skillicons.dev/icons?i=docker,linux,jenkins,githubactions)](https://skillicons.dev)
+
+### 🎨 Frontend (support)
+[![Frontend](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
+
+---
+
+## 🧩 Engineering Principles
+
+- Clean Code & SOLID
+- Domain Driven Design (DDD)
+- Testable code first
+- Performance & observability
+- Security by design
+- Production mindset
+
+---
+
+## 📚 Current Focus
+
+- System Design interviews
+- Advanced Java concurrency
+- Event-driven architectures (Kafka)
+- Cloud-native systems
+- FinTech best practices
 
 ---
 
 ## 📫 Contact
-- LinkedIn → https://www.linkedin.com/in/ignacio-castellanos  
-- Email → ignacio.castemore@gmail.com  
+
+- LinkedIn → https://www.linkedin.com/in/ignacio-castellanos
+- Email → ignacio.castemore@gmail.com
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=CastellanosDev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastellanosDev&layout=compact&theme=tokyonight)
+⭐ Always open to challenging backend problems and high-impact engineering work
