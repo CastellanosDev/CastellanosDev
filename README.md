@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ignacio Castellanos
 
-![Java](https://img.shields.io/badge/Java-17-red)
+![Java](https://img.shields.io/badge/Java-21-red)
 ![Spring](https://img.shields.io/badge/Spring-Boot-green)
 ![Kafka](https://img.shields.io/badge/Kafka-Event--Driven-black)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
